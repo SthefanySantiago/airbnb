@@ -1,0 +1,159 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cagliostro&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cagliostro&family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@font-face 
+{
+    font-family: Airbnb;
+    src: url(AirbnbCereal_W_Blk.otf);
+}
+
+body 
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(rgb(255,255,255), rgb(245, 183, 201), rgb(247, 118, 128))
+}
+header 
+{
+    background-color:rgb(247, 117, 128);
+    color: white;
+    padding: 22.8799px;
+    text-align: center;
+
+}
+nav 
+{
+    margin: 10px 0;
+}
+nav a 
+{
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+.container 
+{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+}
+h1 
+{
+    font-size: 3em;
+    font-family: "Airbnb", sans-serif;
+}
+section 
+{
+    margin: 20px 0;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+footer 
+{
+    text-align: center;
+    padding: 20px;
+    background-color: #00457c;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    
+}
+.rayssa 
+{
+    text-decoration: none;
+    color:  white ;
+}
+h2 
+{
+    font-family: "Airbnb", sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+p
+{
+    text-align: justify;
+    font-size: 1.3em !important;
+}
+.murilo
+{
+    text-align: justify;
+    font-size: 120%;
+}
+.sth
+{
+    text-align: justify;
+    font-size: 170% !important;
+}
+.leo
+{
+    background: linear-gradient(rgb(248, 149, 157), rgb(248, 224, 231));
+}
+.osvaldo
+{
+    background-color: rgb(253, 220, 223);
+}
+.chay
+{
+    text-align: left;
+    font-size: 180% !important;
+    text-align: justify;
+}
+.fotu 
+{
+    border-radius: 2em;
+    margin: 15px;
+}
+.elidalvo
+{
+    text-decoration: none !important;
+    color: black; 
+}
+img
+{
+    image-rendering: optimizeQuality;
+}
+.kalle
+{
+    display: block;
+    margin: auto;
+    width: 22.5em;
+    height: 17.5em;
+}
+h3
+{
+    font-size: 1.4em;
+    font-family: "Airbnb";
+}
+.quejo
+{
+    display: flex;
+}
+.murilop
+{
+    font-size: 2.5em;
+    text-align: center;
+}
+.livia
+{
+    padding-top: 0.5px;
+}
+#lara
+{
+    justify-items: right ;
+}
+#isaac
+{
+    border-radius: 2em;
+    margin: 10px;
+    margin-top: 35px;
+}
+#ryam
+{
+    display: flex;
+}
